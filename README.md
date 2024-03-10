@@ -1,1 +1,3 @@
 # Unmessanger-app-Machine-Learning
+I conducted Exploratory Data Analysis (EDA) on a dataset for predicting car prices. Following that, I examined multicollinearity, standardized numerical features, and applied dummy encoding to categorical variables.
+After exploring various regression models, I selected the best-performing model based on accuracy and cross-validation scores. Subsequently, I engaged in hyperparameter tuning to optimize the model's parameters. Upon identifying the most favorable set of parameters, I fitted the model to the training dataset and utilized the hypertuned model to predict values accurately.
